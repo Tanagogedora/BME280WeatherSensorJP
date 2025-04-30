@@ -1,5 +1,5 @@
 
-> このページを開く [https://tanagogedora.github.io/bme280weathersensorjp/](https://tanagogedora.github.io/bme280weathersensorjp/)
+> このページを開く [https://tanagogedora.github.io/BME280WeatherSensorJP/](https://tanagogedora.github.io/BME280WeatherSensorJP/)
 
 ## 拡張機能として使用
 
